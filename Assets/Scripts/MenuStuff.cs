@@ -11,7 +11,7 @@ public class MenuStuff : MonoBehaviour
         SceneManager.LoadScene(nextSceneName);
     }
 
-
+    // Updated UI Elements in Unity Scenes
     public void B_QuitGame()
     {
         Application.Quit();
